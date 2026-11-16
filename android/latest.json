@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "date": "2026-11-16",
+  "notes": {
+    "new": {
+      "ru": [
+        "Первая версия «Сада и огорода»: программа для Windows и Linux и бесплатное приложение для Android",
+        "План участка: грядки любой формы, строения и деревья; что где росло в любом году",
+        "Посадки, семена с остатками и списком покупок, рассада от посева до высадки",
+        "Подсказки севооборота и соседей, «где лучше посадить» и «что сеять сейчас»",
+        "Сегодня: дела дня, погода на неделю у участка и предупреждение о заморозке",
+        "Справочник около 100 культур и около 100 удобрений и средств защиты, дневник с фото",
+        "Урожай и отчёты по годам, печать и таблицы, резервные копии, перенос из «Садовника»",
+        "Телефон и компьютер обмениваются данными по домашнему Wi-Fi через QR-код, без облака"
+      ],
+      "uk": [
+        "Перша версія «Саду і городу»: програма для Windows і Linux та безкоштовний застосунок для Android",
+        "План ділянки: грядки будь-якої форми, будівлі й дерева; що де росло в будь-якому році",
+        "Посадки, насіння із залишками та списком покупок, розсада від посіву до висаджування",
+        "Підказки сівозміни й сусідів, «де краще посадити» і «що сіяти зараз»",
+        "Сьогодні: справи дня, погода на тиждень біля ділянки й попередження про заморозок",
+        "Довідник близько 100 культур і близько 100 добрив і засобів захисту, щоденник із фото",
+        "Урожай і звіти за роками, друк і таблиці, резервні копії, перенесення із «Садівника»",
+        "Телефон і комп'ютер обмінюються даними домашнім Wi-Fi через QR-код, без хмари"
+      ],
+      "en": [
+        "The first version of Garden & Veg: a program for Windows and Linux and a free Android app",
+        "The plot plan: beds of any shape, buildings and trees; what grew where in any year",
+        "Plantings, seeds with what is left and a shopping list, seedlings from sowing to planting out",
+        "Crop rotation and neighbour hints, \"where to plant best\" and \"what to sow now\"",
+        "Today: the day's jobs, the weather for the week at your plot and a frost warning",
+        "A reference of about 100 crops and about 100 fertilisers and plant protection products, a diary with photos",
+        "Harvest and reports over the years, printing and spreadsheets, backups, import from «Sadovnik»",
+        "The phone and the computer exchange data over the home Wi-Fi with a QR code, no cloud"
+      ]
+    },
+    "fix": {}
+  },
+  "file": "sadiogorod-v1_0_0.apk",
+  "size": 93512206,
+  "sha256": "328ec62f914c449efec365e562d8fd3ca5fead1417778ad5084df33973a2ba4b",
+  "urls": [
+    "https://dl.foleks.com/sadiogorod/android/sadiogorod-v1_0_0.apk",
+    "https://github.com/foleksapps/sadiogorod-releases/releases/download/v1.0.0%2B1/sadiogorod-v1_0_0.apk"
+  ]
+}
