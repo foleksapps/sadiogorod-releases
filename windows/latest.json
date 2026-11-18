@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "build": 1,
-  "date": "2026-11-16",
+  "version": "1.0.1",
+  "build": 2,
+  "date": "2026-11-18",
   "notes": {
     "new": {
       "ru": [
@@ -37,11 +37,11 @@
     },
     "fix": {}
   },
-  "file": "SadIOgorod-Setup-1.0.0.exe",
-  "size": 18494332,
-  "sha256": "7e0d483612c6e6228ec3ff739005a7234abe8366e0ab61c75b028961c98a6f80",
+  "file": "SadIOgorod-Setup-1.0.1.exe",
+  "size": 21175391,
+  "sha256": "b1aac73fa2fa2fd7d93ca992d31a07fecb1baf80f82465d3dde84fb4b46af3e9",
   "urls": [
-    "https://dl.foleks.com/sadiogorod/windows/SadIOgorod-Setup-1.0.0.exe",
-    "https://github.com/foleksapps/sadiogorod-releases/releases/download/v1.0.0%2B1/SadIOgorod-Setup-1.0.0.exe"
+    "https://dl.foleks.com/sadiogorod/windows/SadIOgorod-Setup-1.0.1.exe",
+    "https://github.com/foleksapps/sadiogorod-releases/releases/download/v1.0.1%2B2/SadIOgorod-Setup-1.0.1.exe"
   ]
 }
