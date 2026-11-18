@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "build": 1,
-  "date": "2026-11-16",
+  "version": "1.0.1",
+  "build": 2,
+  "date": "2026-11-18",
   "notes": {
     "new": {
       "ru": [
@@ -37,11 +37,11 @@
     },
     "fix": {}
   },
-  "file": "SadIOgorod-1.0.0-x86_64.AppImage",
-  "size": 19479032,
-  "sha256": "60f0f04a7bbd6bafc0b27dd3510a1ac07e12e33d1f7e6c168aa9b72288abb9bc",
+  "file": "SadIOgorod-1.0.1-x86_64.AppImage",
+  "size": 22239736,
+  "sha256": "0160d6c3ba53ef25515fcdabb6053b74df175f5aa6bdcb669a9abe3266183eed",
   "urls": [
-    "https://dl.foleks.com/sadiogorod/linux/SadIOgorod-1.0.0-x86_64.AppImage",
-    "https://github.com/foleksapps/sadiogorod-releases/releases/download/v1.0.0%2B1/SadIOgorod-1.0.0-x86_64.AppImage"
+    "https://dl.foleks.com/sadiogorod/linux/SadIOgorod-1.0.1-x86_64.AppImage",
+    "https://github.com/foleksapps/sadiogorod-releases/releases/download/v1.0.1%2B2/SadIOgorod-1.0.1-x86_64.AppImage"
   ]
 }
